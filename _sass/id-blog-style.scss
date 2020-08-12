@@ -1,0 +1,320 @@
+$nav-background-color: #f3f3f3;
+$primary-color: #bf9f5a;
+$secondary-color: #333;
+
+// DEFAULTS
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 18px;
+  line-height: 1.5em;
+  background: #fff;
+}
+
+ul {
+  li {
+    a {
+      display: block;
+    }
+  }
+}
+
+a {
+  color: $secondary-color;
+  text-decoration: none;
+}
+
+// UTILITY
+
+.small-text {
+  font-size: 0.9rem;
+}
+
+.container {
+  margin: 20px;
+}
+
+.grid {
+  display: grid;
+}
+
+.col-1 {
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+
+.col-2 {
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.col-3 {
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20x;
+}
+
+.col-2-left-wide {
+  grid-template-columns: 65% 35%;
+  gap: 20px;
+}
+
+.col-2-right-wide {
+  grid-template-columns: 35% 65%;
+  gap: 20px;
+}
+
+.mb-1 {
+  margin-bottom: 10px;
+}
+
+.mb-2 {
+  margin-bottom: 20px;
+}
+
+.mt-1 {
+  margin-top: 10px;
+}
+
+.mt-2 {
+  margin-top: 20px;
+}
+
+.copy {
+  margin-top: auto;
+  margin-bottom: 20px;
+  text-align: center;
+  p {
+  color: $primary-color;
+  font-weight: lighter;
+  font-size: 0.85rem;
+}}
+// BASIC LAYOUT
+
+#main-page {
+  display: grid;
+  grid-template-columns: 300px auto;
+  overflow: hidden;
+}
+
+#main-footer {
+  background-color: $secondary-color;
+  color: #f3f3f3ff;
+  font-weight: lighter;
+  font-size: 0.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+
+#navbar {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  background-color: $nav-background-color;
+  height: 100%;
+  position: fixed;
+  width: 300px;
+
+  .logo {
+    margin: 20px;
+  }
+
+  ul {
+    list-style: none;
+
+    li {
+      border-bottom: $primary-color solid 0.3px;
+      padding: 2px 10px;
+      text-align: center;
+    }
+
+    li:hover {
+      background: $secondary-color;
+
+      a {
+        color: $primary-color;
+      }
+    }
+  }
+}
+
+#articles {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 15px;
+  row-gap: 25px;
+
+  .card {
+    padding-bottom: 15px;
+    text-align: center;
+    border-bottom: #bf9f5a 1px solid;
+
+    h2 {
+      font-size: 1.5rem;
+    }
+
+    @media (max-width: 1480px) {
+      h2 {
+        font-size: 1.2rem;
+      }
+    }
+    img {
+      width: 100%;
+      height: auto;
+    }
+
+    img:hover {
+      opacity: 0.3;
+    }
+
+    .small-text {
+      color: $secondary-color;
+    }
+
+    a:hover {
+      color: #bf9f5a;
+    }
+  }
+}
+
+.post-layout {
+  width: 85%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+
+  section {
+    margin-bottom: 20px;
+  }
+  h1, h2, h3, h4, h5 {
+    margin-bottom: 1rem;
+  }
+}
+
+.post-title {
+  text-align: center;
+  line-height: 2.75rem;
+  font-size: 2.5rem;
+}
+
+.post-header {
+  margin-bottom: 2rem;
+
+  .small-text {
+    text-align: center;
+    margin-top: 1rem;
+  }
+}
+
+
+// MEDIA QUERIES
+
+@media screen and (max-width: 1200px) {
+  #articles {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .post-layout {
+    width: 90%;
+  }
+
+  .post-body {
+    display: grid;
+    grid-template-columns: 100%;
+  }
+  #main-page {
+    grid-template-columns: 215px auto;
+  }
+  #navbar {
+    width: 215px;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .col-1,
+  .col-2,
+  .col-3,
+  .col--left-wide,
+  .col-2-right-wide {
+    grid-template-columns: 1fr;
+  }
+  #articles {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (max-width: 860px) {
+
+  .container {
+    margin: 10px;
+  }
+
+  .post-layout {
+    width: 100%;
+  }
+
+  #main-page {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #navbar {
+    position: initial;
+    flex-direction: column;
+    background-color: $nav-background-color;
+    width: 100%;
+    overflow: hidden;
+    font-size: 1em;
+
+    .copy {
+      display: none;
+    }
+    
+    .logo {
+      display: block;
+      width: 80%;
+      margin: 10px auto;
+    }
+
+    ul {
+      display: flex;
+      margin: 1rem 0;
+
+      li {
+        border-bottom: none;
+        border-right: #bf9f5a 1px solid;
+        flex: 1;
+      }
+
+      li:last-child {
+        border: none;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 490px) {
+  #navbar {
+    font-size: 0.9em;
+    justify-content: center;
+    align-self: center;
+    ul {
+      flex-direction: column;
+      li {
+        border: none;
+        border-bottom: #bf9f5a 1px solid;
+      }
+    }
+  }
+}
