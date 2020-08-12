@@ -24,13 +24,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-<<<<<<< HEAD
 baseurl: "id-blog" # the subpath of your site, e.g. /blog
 url: "http://inwestycjadlugoterminowa.pl" # the base hostname & protocol for your site, e.g. http://example.com
-=======
 baseurl: "/id-blog" # the subpath of your site, e.g. /blog
 url: "https://inwestycjadlugoterminowa.pl" # the base hostname & protocol for your site, e.g. http://example.com
->>>>>>> 00b76949ca4dcc65847ef2ad2260e80258d7e8c9
 twitter_username: Stoockbroker
 github_username:  Stoockrboker
 
