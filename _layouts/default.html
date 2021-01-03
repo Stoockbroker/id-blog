@@ -3,9 +3,25 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
-    <title>{{ page.title }}</title>
+
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/img/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/img/apple-touch-icon-120x120.png" />
+
+    <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+
+    <title>
+      {% if page.title %}
+        {{ page.title }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </title>
   </head>
   <body>
     <div id="main-page">
