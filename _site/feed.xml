@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://inwestycjadlugoterminowa.pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://inwestycjadlugoterminowa.pl/" rel="alternate" type="text/html" /><updated>2021-09-01T18:24:39+02:00</updated><id>https://inwestycjadlugoterminowa.pl/feed.xml</id><title type="html">Inwestycja Długoterminowa</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">WIG Games</title><link href="https://inwestycjadlugoterminowa.pl/WIG-Games/" rel="alternate" type="text/html" title="WIG Games" /><published>2021-08-31T00:00:00+02:00</published><updated>2021-08-31T00:00:00+02:00</updated><id>https://inwestycjadlugoterminowa.pl/WIG-Games</id><content type="html" xml:base="https://inwestycjadlugoterminowa.pl/WIG-Games/">&lt;h3 class=&quot;text-center&quot;&gt;Sółki wchodzące w skład WIG GAMES na dzień 31-08-2021&lt;/h3&gt;
+
+
+  &lt;div class=&quot;card mb-3&quot;&gt;
+    &lt;div class=&quot;row g-2&quot;&gt;
+      &lt;div class=&quot;col-md-4&quot;&gt;
+        &lt;a href=&quot;/CD-Projekt/&quot;&gt;&lt;img src=&quot;../assets/img/WIG-Games/CDP-logo.png&quot; class=&quot;img-fluid rounded-start p-3&quot; alt=&quot;Logo CD Projekt&quot;&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+            &lt;h5 class=&quot;card-title&quot;&gt;&lt;a href=&quot;/CD-Projekt/&quot;&gt;CD Projekt&lt;/a&gt;&lt;/h5&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Gigant polskiego GameDevu&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;card mb-3&quot;&gt;
+    &lt;div class=&quot;row g-2&quot;&gt;
+      &lt;div class=&quot;col-md-4&quot;&gt;
+        &lt;a href=&quot;/11-BIT-Studios/&quot;&gt;&lt;img src=&quot;../assets/img/WIG-Games/11B-logo.jpg&quot; class=&quot;img-fluid rounded-start p-3&quot; alt=&quot;11 BIT Logo&quot;&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;h5 class=&quot;card-title&quot;&gt;&lt;a href=&quot;/11-BIT-Studios/&quot;&gt;11 Bit Studios&lt;/a&gt;&lt;/h5&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque labore laudantium assumenda commodi, nemo rerum. Dolores quae, modi quibusdam consequatur incidunt facilis dolore facere, tempora quidem ducimus iure, deleniti a.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;card mb-3&quot;&gt;
+    &lt;div class=&quot;row g-2&quot;&gt;
+      &lt;div class=&quot;col-md-4&quot;&gt;
+        &lt;a href=&quot;/PlayWay/&quot;&gt;&lt;img src=&quot;../assets/img/WIG-Games/PLW-logo.jpg&quot; class=&quot;img-fluid rounded-start p-3&quot; alt=&quot;PlayWay Logo&quot;&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;h5 class=&quot;card-title&quot;&gt;&lt;a href=&quot;/PlayWay/&quot;&gt;PlayWay&lt;/a&gt;&lt;/h5&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque labore laudantium assumenda commodi, nemo rerum. Dolores quae, modi quibusdam consequatur incidunt facilis dolore facere, tempora quidem ducimus iure, deleniti a.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;card mb-3&quot;&gt;
+    &lt;div class=&quot;row g-2&quot;&gt;
+      &lt;div class=&quot;col-md-4&quot;&gt;
+        &lt;a href=&quot;/CI-Games/&quot;&gt;&lt;img src=&quot;../assets/img/WIG-Games/CIG-logo.svg&quot; class=&quot;img-fluid rounded-start p-3&quot; alt=&quot;CI Games Logo&quot;&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;h5 class=&quot;card-title&quot;&gt;&lt;a href=&quot;/CI-Games/&quot;&gt;CI Games&lt;/a&gt;&lt;/h5&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque labore laudantium assumenda commodi, nemo rerum. Dolores quae, modi quibusdam consequatur incidunt facilis dolore facere, tempora quidem ducimus iure, deleniti a.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;card mb-3&quot;&gt;
+    &lt;div class=&quot;row g-2&quot;&gt;
+      &lt;div class=&quot;col-md-4&quot;&gt;
+        &lt;a href=&quot;/Ten-Square-Games/&quot;&gt;&lt;img src=&quot;../assets/img/WIG-Games/TEN-logo.png&quot; class=&quot;img-fluid rounded-start p-3&quot; alt=&quot;Ten Square Games Logo&quot;&gt;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;col-md-8&quot;&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;h5 class=&quot;card-title&quot;&gt;&lt;a href=&quot;/Ten-Square-Games/&quot;&gt;Ten Square Games&lt;/a&gt;&lt;/h5&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque labore laudantium assumenda commodi, nemo rerum. Dolores quae, modi quibusdam consequatur incidunt facilis dolore facere, tempora quidem ducimus iure, deleniti a.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;</content><author><name></name></author><category term="GPW" /><summary type="html">Sółki wchodzące w skład WIG GAMES na dzień 31-08-2021</summary></entry><entry><title type="html">11 Bit Studios</title><link href="https://inwestycjadlugoterminowa.pl/11-BIT-Studios/" rel="alternate" type="text/html" title="11 Bit Studios" /><published>2021-08-31T00:00:00+02:00</published><updated>2021-08-31T00:00:00+02:00</updated><id>https://inwestycjadlugoterminowa.pl/11-BIT-Studios</id><content type="html" xml:base="https://inwestycjadlugoterminowa.pl/11-BIT-Studios/"></content><author><name></name></author><category term="GPW" /><category term="Analizy" /></entry><entry><title type="html">CD Projekt</title><link href="https://inwestycjadlugoterminowa.pl/CD-Projekt/" rel="alternate" type="text/html" title="CD Projekt" /><published>2021-08-31T00:00:00+02:00</published><updated>2021-08-31T00:00:00+02:00</updated><id>https://inwestycjadlugoterminowa.pl/CD-Projekt</id><content type="html" xml:base="https://inwestycjadlugoterminowa.pl/CD-Projekt/">&lt;section class=&quot;row my-5 gx-5&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+  &lt;img src=&quot;../assets/img/WIG-Games/CDP-logo.png&quot; class=&quot;img-fluid &quot; alt=&quot;CD Projekt Logo&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-8&quot;&gt;
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos quae, consectetur excepturi eaque cupiditate iusto itaque? Minima molestiae, modi rem doloremque consequatur esse laborum, hic enim suscipit quod aspernatur rerum.
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-lg-6&quot;&gt;
+            &lt;p&gt;
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eveniet maxime exercitationem consequuntur explicabo, dignissimos doloremque illo enim, voluptatum eius quibusdam modi suscipit facere provident sit harum non? Iusto eius sunt in aspernatur, odit obcaecati amet tenetur. Repellendus quidem quaerat assumenda laboriosam illum pariatur similique saepe incidunt, rem, temporibus corporis a consequuntur fuga est quis debitis voluptas quisquam autem commodi tenetur accusamus obcaecati? Commodi fugiat repellat assumenda eos vero, minus odio odit sapiente quae ex reprehenderit quas illum. Fuga, eligendi suscipit ea non voluptas iste aut ullam molestiae beatae quo accusamus quia, labore rem aspernatur! Ipsum, sapiente deserunt veritatis atque voluptatem voluptas non sunt nobis earum saepe est quas debitis corporis sed esse magnam mollitia deleniti nostrum, vel dolorem blanditiis, error quos. Ut nam reiciendis qui corporis et deleniti ab sapiente deserunt neque incidunt sequi culpa, ea reprehenderit pariatur tempora obcaecati, dolor expedita repudiandae saepe. Pariatur ad non facere quas!
+        &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-lg-6&quot;&gt;
+            &lt;p&gt;
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eveniet maxime exercitationem consequuntur explicabo, dignissimos doloremque illo enim, voluptatum eius quibusdam modi suscipit facere provident sit harum non? Iusto eius sunt in aspernatur, odit obcaecati amet tenetur. Repellendus quidem quaerat assumenda laboriosam illum pariatur similique saepe incidunt, rem, temporibus corporis a consequuntur fuga est quis debitis voluptas quisquam autem commodi tenetur accusamus obcaecati? Commodi fugiat repellat assumenda eos vero, minus odio odit sapiente quae ex reprehenderit quas illum. Fuga, eligendi suscipit ea non voluptas iste aut ullam molestiae beatae quo accusamus quia, labore rem aspernatur! Ipsum, sapiente deserunt veritatis atque voluptatem voluptas non sunt nobis earum saepe est quas debitis corporis sed esse magnam mollitia deleniti nostrum, vel dolorem blanditiis, error quos. Ut nam reiciendis qui corporis et deleniti ab sapiente deserunt neque incidunt sequi culpa, ea reprehenderit pariatur tempora obcaecati, dolor expedita repudiandae saepe. Pariatur ad non facere quas!
+        &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-lg-3&quot;&gt;
+            &lt;table class=&quot;table&quot;&gt;
+                &lt;thead&gt;
+                  &lt;tr&gt;
+                    &lt;th scope=&quot;col&quot;&gt;#&lt;/th&gt;
+                    &lt;th scope=&quot;col&quot;&gt;First&lt;/th&gt;
+                    &lt;th scope=&quot;col&quot;&gt;Last&lt;/th&gt;
+                    &lt;th scope=&quot;col&quot;&gt;Handle&lt;/th&gt;
+                  &lt;/tr&gt;
+                &lt;/thead&gt;
+                &lt;tbody&gt;
+                  &lt;tr&gt;
+                    &lt;th scope=&quot;row&quot;&gt;1&lt;/th&gt;
+                    &lt;td&gt;Mark&lt;/td&gt;
+                    &lt;td&gt;Otto&lt;/td&gt;
+                    &lt;td&gt;@mdo&lt;/td&gt;
+                  &lt;/tr&gt;
+                  &lt;tr&gt;
+                    &lt;th scope=&quot;row&quot;&gt;2&lt;/th&gt;
+                    &lt;td&gt;Jacob&lt;/td&gt;
+                    &lt;td&gt;Thornton&lt;/td&gt;
+                    &lt;td&gt;@fat&lt;/td&gt;
+                  &lt;/tr&gt;
+                  &lt;tr&gt;
+                    &lt;th scope=&quot;row&quot;&gt;3&lt;/th&gt;
+                    &lt;td colspan=&quot;2&quot;&gt;Larry the Bird&lt;/td&gt;
+                    &lt;td&gt;@twitter&lt;/td&gt;
+                  &lt;/tr&gt;
+                &lt;/tbody&gt;
+              &lt;/table&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;col-lg-9&quot;&gt;
+            &lt;p&gt;
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate eveniet maxime exercitationem consequuntur explicabo, dignissimos doloremque illo enim, voluptatum eius quibusdam modi suscipit facere provident sit harum non? Iusto eius sunt in aspernatur, odit obcaecati amet tenetur. Repellendus quidem quaerat assumenda laboriosam illum pariatur similique saepe incidunt, rem, temporibus corporis a consequuntur fuga est quis debitis voluptas quisquam autem commodi tenetur accusamus obcaecati? Commodi fugiat repellat assumenda eos vero, minus odio odit sapiente quae ex reprehenderit quas illum. Fuga, eligendi suscipit ea non voluptas iste aut ullam molestiae beatae quo accusamus quia, labore rem aspernatur! Ipsum, sapiente deserunt veritatis atque voluptatem voluptas non sunt nobis earum saepe est quas debitis corporis sed esse magnam mollitia deleniti nostrum, vel dolorem blanditiis, error quos. Ut nam reiciendis qui corporis et deleniti ab sapiente deserunt neque incidunt sequi culpa, ea reprehenderit pariatur tempora obcaecati, dolor expedita repudiandae saepe. Pariatur ad non facere quas!
+        &lt;/p&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt; 
+  &lt;nav id=&quot;navbar-example3&quot; class=&quot;navbar navbar-light bg-light flex-column align-items-stretch p-3&quot;&gt;
+    &lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;Navbar&lt;/a&gt;
+    &lt;nav class=&quot;nav nav-pills flex-column&quot;&gt;
+      &lt;a class=&quot;nav-link&quot; href=&quot;#item-1&quot;&gt;Item 1&lt;/a&gt;
+      &lt;nav class=&quot;nav nav-pills flex-column&quot;&gt;
+        &lt;a class=&quot;nav-link ms-3 my-1&quot; href=&quot;#item-1-1&quot;&gt;Item 1-1&lt;/a&gt;
+        &lt;a class=&quot;nav-link ms-3 my-1&quot; href=&quot;#item-1-2&quot;&gt;Item 1-2&lt;/a&gt;
+      &lt;/nav&gt;
+      &lt;a class=&quot;nav-link&quot; href=&quot;#item-2&quot;&gt;Item 2&lt;/a&gt;
+      &lt;a class=&quot;nav-link&quot; href=&quot;#item-3&quot;&gt;Item 3&lt;/a&gt;
+      &lt;nav class=&quot;nav nav-pills flex-column&quot;&gt;
+        &lt;a class=&quot;nav-link ms-3 my-1&quot; href=&quot;#item-3-1&quot;&gt;Item 3-1&lt;/a&gt;
+        &lt;a class=&quot;nav-link ms-3 my-1&quot; href=&quot;#item-3-2&quot;&gt;Item 3-2&lt;/a&gt;
+      &lt;/nav&gt;
+    &lt;/nav&gt;
+  &lt;/nav&gt;
+  
+  &lt;div data-bs-spy=&quot;scroll&quot; data-bs-target=&quot;#navbar-example3&quot; data-bs-offset=&quot;0&quot; tabindex=&quot;0&quot;&gt;
+    &lt;h4 id=&quot;item-1&quot;&gt;Item 1&lt;/h4&gt;
+    &lt;p&gt;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur ullam est culpa ab porro fuga unde, repudiandae nihil adipisci itaque pariatur quisquam incidunt, quam, ducimus provident? Sunt odio veritatis hic autem corrupti optio adipisci non rerum sint, vel ratione architecto eius rem! Esse dicta quasi provident doloribus, officia laborum sit, itaque voluptate cum temporibus earum possimus ipsa! Alias optio expedita vel veritatis illo dolorum quis, ducimus ratione voluptas, reiciendis amet voluptatum quibusdam odio atque esse sunt voluptatibus aliquid! Eligendi tempore eos, exercitationem debitis, consequatur veritatis ullam nulla, numquam magni aperiam rerum explicabo iste ab esse similique. Possimus dolor natus suscipit quasi minus. Necessitatibus temporibus est esse officia nisi voluptatum rerum at atque quod incidunt commodi numquam consequuntur, veritatis voluptas eligendi optio alias consectetur nobis eaque odio? Laborum accusantium alias labore quod facilis soluta sapiente saepe commodi nulla aliquid harum voluptatem aperiam, suscipit, a consectetur! Fuga sint consequuntur molestias reprehenderit illum.&lt;/p&gt;
+    &lt;h5 id=&quot;item-1-1&quot;&gt;Item 1-1&lt;/h5&gt;
+    &lt;p&gt;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur ullam est culpa ab porro fuga unde, repudiandae nihil adipisci itaque pariatur quisquam incidunt, quam, ducimus provident? Sunt odio veritatis hic autem corrupti optio adipisci non rerum sint, vel ratione architecto eius rem! Esse dicta quasi provident doloribus, officia laborum sit, itaque voluptate cum temporibus earum possimus ipsa! Alias optio expedita vel veritatis illo dolorum quis, ducimus ratione voluptas, reiciendis amet voluptatum quibusdam odio atque esse sunt voluptatibus aliquid! Eligendi tempore eos, exercitationem debitis, consequatur veritatis ullam nulla, numquam magni aperiam rerum explicabo iste ab esse similique. Possimus dolor natus suscipit quasi minus. Necessitatibus temporibus est esse officia nisi voluptatum rerum at atque quod incidunt commodi numquam consequuntur, veritatis voluptas eligendi optio alias consectetur nobis eaque odio? Laborum accusantium alias labore quod facilis soluta sapiente saepe commodi nulla aliquid harum voluptatem aperiam, suscipit, a consectetur! Fuga sint consequuntur molestias reprehenderit illum.&lt;/p&gt;
+    &lt;h5 id=&quot;item-1-2&quot;&gt;Item 1-2&lt;/h5&gt;
+    &lt;p&gt;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur ullam est culpa ab porro fuga unde, repudiandae nihil adipisci itaque pariatur quisquam incidunt, quam, ducimus provident? Sunt odio veritatis hic autem corrupti optio adipisci non rerum sint, vel ratione architecto eius rem! Esse dicta quasi provident doloribus, officia laborum sit, itaque voluptate cum temporibus earum possimus ipsa! Alias optio expedita vel veritatis illo dolorum quis, ducimus ratione voluptas, reiciendis amet voluptatum quibusdam odio atque esse sunt voluptatibus aliquid! Eligendi tempore eos, exercitationem debitis, consequatur veritatis ullam nulla, numquam magni aperiam rerum explicabo iste ab esse similique. Possimus dolor natus suscipit quasi minus. Necessitatibus temporibus est esse officia nisi voluptatum rerum at atque quod incidunt commodi numquam consequuntur, veritatis voluptas eligendi optio alias consectetur nobis eaque odio? Laborum accusantium alias labore quod facilis soluta sapiente saepe commodi nulla aliquid harum voluptatem aperiam, suscipit, a consectetur! Fuga sint consequuntur molestias reprehenderit illum.&lt;/p&gt;
+    &lt;h4 id=&quot;item-2&quot;&gt;Item 2&lt;/h4&gt;
+    &lt;p&gt;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur ullam est culpa ab porro fuga unde, repudiandae nihil adipisci itaque pariatur quisquam incidunt, quam, ducimus provident? Sunt odio veritatis hic autem corrupti optio adipisci non rerum sint, vel ratione architecto eius rem! Esse dicta quasi provident doloribus, officia laborum sit, itaque voluptate cum temporibus earum possimus ipsa! Alias optio expedita vel veritatis illo dolorum quis, ducimus ratione voluptas, reiciendis amet voluptatum quibusdam odio atque esse sunt voluptatibus aliquid! Eligendi tempore eos, exercitationem debitis, consequatur veritatis ullam nulla, numquam magni aperiam rerum explicabo iste ab esse similique. Possimus dolor natus suscipit quasi minus. Necessitatibus temporibus est esse officia nisi voluptatum rerum at atque quod incidunt commodi numquam consequuntur, veritatis voluptas eligendi optio alias consectetur nobis eaque odio? Laborum accusantium alias labore quod facilis soluta sapiente saepe commodi nulla aliquid harum voluptatem aperiam, suscipit, a consectetur! Fuga sint consequuntur molestias reprehenderit illum.&lt;/p&gt;
+    &lt;h4 id=&quot;item-3&quot;&gt;Item 3&lt;/h4&gt;
+    &lt;p&gt;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur ullam est culpa ab porro fuga unde, repudiandae nihil adipisci itaque pariatur quisquam incidunt, quam, ducimus provident? Sunt odio veritatis hic autem corrupti optio adipisci non rerum sint, vel ratione architecto eius rem! Esse dicta quasi provident doloribus, officia laborum sit, itaque voluptate cum temporibus earum possimus ipsa! Alias optio expedita vel veritatis illo dolorum quis, ducimus ratione voluptas, reiciendis amet voluptatum quibusdam odio atque esse sunt voluptatibus aliquid! Eligendi tempore eos, exercitationem debitis, consequatur veritatis ullam nulla, numquam magni aperiam rerum explicabo iste ab esse similique. Possimus dolor natus suscipit quasi minus. Necessitatibus temporibus est esse officia nisi voluptatum rerum at atque quod incidunt commodi numquam consequuntur, veritatis voluptas eligendi optio alias consectetur nobis eaque odio? Laborum accusantium alias labore quod facilis soluta sapiente saepe commodi nulla aliquid harum voluptatem aperiam, suscipit, a consectetur! Fuga sint consequuntur molestias reprehenderit illum.&lt;/p&gt;
+    &lt;h5 id=&quot;item-3-1&quot;&gt;Item 3-1&lt;/h5&gt;
+    &lt;p&gt;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur ullam est culpa ab porro fuga unde, repudiandae nihil adipisci itaque pariatur quisquam incidunt, quam, ducimus provident? Sunt odio veritatis hic autem corrupti optio adipisci non rerum sint, vel ratione architecto eius rem! Esse dicta quasi provident doloribus, officia laborum sit, itaque voluptate cum temporibus earum possimus ipsa! Alias optio expedita vel veritatis illo dolorum quis, ducimus ratione voluptas, reiciendis amet voluptatum quibusdam odio atque esse sunt voluptatibus aliquid! Eligendi tempore eos, exercitationem debitis, consequatur veritatis ullam nulla, numquam magni aperiam rerum explicabo iste ab esse similique. Possimus dolor natus suscipit quasi minus. Necessitatibus temporibus est esse officia nisi voluptatum rerum at atque quod incidunt commodi numquam consequuntur, veritatis voluptas eligendi optio alias consectetur nobis eaque odio? Laborum accusantium alias labore quod facilis soluta sapiente saepe commodi nulla aliquid harum voluptatem aperiam, suscipit, a consectetur! Fuga sint consequuntur molestias reprehenderit illum.&lt;/p&gt;
+    &lt;h5 id=&quot;item-3-2&quot;&gt;Item 3-2&lt;/h5&gt;
+    &lt;p&gt;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur ullam est culpa ab porro fuga unde, repudiandae nihil adipisci itaque pariatur quisquam incidunt, quam, ducimus provident? Sunt odio veritatis hic autem corrupti optio adipisci non rerum sint, vel ratione architecto eius rem! Esse dicta quasi provident doloribus, officia laborum sit, itaque voluptate cum temporibus earum possimus ipsa! Alias optio expedita vel veritatis illo dolorum quis, ducimus ratione voluptas, reiciendis amet voluptatum quibusdam odio atque esse sunt voluptatibus aliquid! Eligendi tempore eos, exercitationem debitis, consequatur veritatis ullam nulla, numquam magni aperiam rerum explicabo iste ab esse similique. Possimus dolor natus suscipit quasi minus. Necessitatibus temporibus est esse officia nisi voluptatum rerum at atque quod incidunt commodi numquam consequuntur, veritatis voluptas eligendi optio alias consectetur nobis eaque odio? Laborum accusantium alias labore quod facilis soluta sapiente saepe commodi nulla aliquid harum voluptatem aperiam, suscipit, a consectetur! Fuga sint consequuntur molestias reprehenderit illum.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+
+&lt;button class=&quot;btn btn-primary&quot; type=&quot;button&quot; data-bs-toggle=&quot;offcanvas&quot; data-bs-target=&quot;#offcanvasWithBothOptions&quot; aria-controls=&quot;offcanvasWithBothOptions&quot;&gt;Enable both scrolling &amp; backdrop&lt;/button&gt;
+
+
+
+&lt;div class=&quot;offcanvas offcanvas-start&quot; data-bs-scroll=&quot;true&quot; tabindex=&quot;-1&quot; id=&quot;offcanvasWithBothOptions&quot; aria-labelledby=&quot;offcanvasWithBothOptionsLabel&quot;&gt;
+  &lt;div class=&quot;offcanvas-header&quot;&gt;
+    &lt;h5 class=&quot;offcanvas-title&quot; id=&quot;offcanvasWithBothOptionsLabel&quot;&gt;Backdroped with scrolling&lt;/h5&gt;
+    &lt;button type=&quot;button&quot; class=&quot;btn-close text-reset&quot; data-bs-dismiss=&quot;offcanvas&quot; aria-label=&quot;Close&quot;&gt;&lt;/button&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;offcanvas-body&quot;&gt;
+    &lt;p&gt;Try scrolling the rest of the page to see this option in action.&lt;/p&gt;
+    &lt;nav id=&quot;navbar-example3&quot; class=&quot;navbar navbar-light bg-light flex-column align-items-stretch p-3&quot;&gt;
+      &lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;Navbar&lt;/a&gt;
+      &lt;nav class=&quot;nav nav-pills flex-column&quot;&gt;
+        &lt;a class=&quot;nav-link&quot; href=&quot;#item-1&quot;&gt;Item 1&lt;/a&gt;
+        &lt;nav class=&quot;nav nav-pills flex-column&quot;&gt;
+          &lt;a class=&quot;nav-link ms-3 my-1&quot; href=&quot;#item-1-1&quot;&gt;Item 1-1&lt;/a&gt;
+          &lt;a class=&quot;nav-link ms-3 my-1&quot; href=&quot;#item-1-2&quot;&gt;Item 1-2&lt;/a&gt;
+        &lt;/nav&gt;
+        &lt;a class=&quot;nav-link&quot; href=&quot;#item-2&quot;&gt;Item 2&lt;/a&gt;
+        &lt;a class=&quot;nav-link&quot; href=&quot;#item-3&quot;&gt;Item 3&lt;/a&gt;
+        &lt;nav class=&quot;nav nav-pills flex-column&quot;&gt;
+          &lt;a class=&quot;nav-link ms-3 my-1&quot; href=&quot;#item-3-1&quot;&gt;Item 3-1&lt;/a&gt;
+          &lt;a class=&quot;nav-link ms-3 my-1&quot; href=&quot;#item-3-2&quot;&gt;Item 3-2&lt;/a&gt;
+        &lt;/nav&gt;
+      &lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="GPW" /><summary type="html">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos quae, consectetur excepturi eaque cupiditate iusto itaque? Minima molestiae, modi rem doloremque consequatur esse laborum, hic enim suscipit quod aspernatur rerum.</summary></entry><entry><title type="html">CI Games</title><link href="https://inwestycjadlugoterminowa.pl/CI-Games/" rel="alternate" type="text/html" title="CI Games" /><published>2021-08-31T00:00:00+02:00</published><updated>2021-08-31T00:00:00+02:00</updated><id>https://inwestycjadlugoterminowa.pl/CI-Games</id><content type="html" xml:base="https://inwestycjadlugoterminowa.pl/CI-Games/"></content><author><name></name></author><category term="GPW" /></entry><entry><title type="html">PlayWay</title><link href="https://inwestycjadlugoterminowa.pl/PlayWay/" rel="alternate" type="text/html" title="PlayWay" /><published>2021-08-31T00:00:00+02:00</published><updated>2021-08-31T00:00:00+02:00</updated><id>https://inwestycjadlugoterminowa.pl/PlayWay</id><content type="html" xml:base="https://inwestycjadlugoterminowa.pl/PlayWay/"></content><author><name></name></author><category term="GPW" /></entry><entry><title type="html">Ten Square Games</title><link href="https://inwestycjadlugoterminowa.pl/Ten-Square-Games/" rel="alternate" type="text/html" title="Ten Square Games" /><published>2021-08-31T00:00:00+02:00</published><updated>2021-08-31T00:00:00+02:00</updated><id>https://inwestycjadlugoterminowa.pl/Ten-Square-Games</id><content type="html" xml:base="https://inwestycjadlugoterminowa.pl/Ten-Square-Games/"></content><author><name></name></author><category term="GPW" /></entry></feed>

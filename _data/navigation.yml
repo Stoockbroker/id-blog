@@ -1,0 +1,8 @@
+- name: Start
+  link: /
+- name: O blogu
+  link: /about/
+- name: Kategorie
+  link: /categories/
+- name: Kontakt
+  link: /contact/

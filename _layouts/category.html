@@ -1,0 +1,15 @@
+---
+layout: base
+---
+
+<div class=" my-5">
+    <h1 class="text-center">
+        {{ page.category_name }}
+    </h1>
+    <ol>
+    {% for post in site.categories.Analizy %}
+        <li>{{post.title}} - <a href="{{post.url}}">LINK</a></li>
+    {% endfor %}
+</ol>
+    {{ content }}
+</div>
