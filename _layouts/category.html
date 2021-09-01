@@ -6,10 +6,11 @@ layout: base
     <h1 class="text-center">
         {{ page.category_name }}
     </h1>
+    {{content}}
     <ol>
-    {% for post in site.categories.Analizy %}
+        {% for post in site.categories.Analizy %}
         <li>{{post.title}} - <a href="{{post.url}}">LINK</a></li>
-    {% endfor %}
-</ol>
+        {% endfor %}
+    </ol>
     {{ content }}
 </div>
