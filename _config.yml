@@ -32,6 +32,7 @@ github_username:  Stoockbroker
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-katex
 
 permalink: /:title/
 
