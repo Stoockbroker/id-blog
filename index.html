@@ -6,14 +6,16 @@ permalink: '/'
 <div class="row mt-5">
   <div class="col">
   {% for post in site.posts limit: 1%}
+  <a href="{{ post.url }}" style="text-decoration: none;">
 <div class="card bg-dark text-white">
-  <img src="assets/img/featured_image/{{ post.featured_image }}" class="card-img" alt="...">
+  <img src="assets/img/featured_image/{{ post.featured_image }}" style="object-fit: cover; height: 400px;" class="card-img" alt="...">
   <div class="card-body">
     <h5 class="card-title">{{ post.title }}</h5>
     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
 </div>
+</a>
 {% endfor %}
 </div>
 </div>
@@ -24,7 +26,7 @@ permalink: '/'
   <div class="col">
     <div class="text-center card h-100" id="index-card">
       <div class="mh-50">
-      <a href="{{ post.url }}"><img class="card-img-top mh-50" src="assets/img/featured_image/{{ post.featured_image }}"
+      <a href="{{ post.url }}"><img class="card-img-top mh-50 p-5" src="assets/img/featured_image/{{ post.featured_image }}"
           alt="{{ post.featured_image_desc }}"></a>
         </div>
       <div class="card-body mt-auto">
@@ -42,7 +44,7 @@ permalink: '/'
   <div class="col">
     <div class="text-center card h-100" id="index-card">
       <div class="mh-50">
-      <a href="{{ post.url }}"><img class="card-img-top mh-50" src="assets/img/featured_image/{{ post.featured_image }}"
+      <a href="{{ post.url }}"><img class="card-img-top mh-50 p-2"  src="assets/img/featured_image/{{ post.featured_image }}"
           alt="{{ post.featured_image_desc }}"></a>
         </div>
       <div class="card-body mt-auto">
@@ -52,4 +54,4 @@ permalink: '/'
     </div>
   </div>
   {% endfor %}
-</section
+</section>
