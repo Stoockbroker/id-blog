@@ -5,7 +5,7 @@ permalink: '/'
 
 <div class="row mt-5">
   <div class="col">
-  {% for post in site.posts limit: 1%}
+  {% for post in site.posts limit: 1 %}
   <a href="{{ post.url }}" style="text-decoration: none;">
 <div class="card bg-dark text-white">
   <img src="assets/img/featured_image/{{ post.featured_image }}" style="object-fit: cover; height: 400px;" class="card-img" alt="...">
@@ -22,7 +22,7 @@ permalink: '/'
 
 
 <section class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 my-3">
-  {% for post in site.posts offset: 1 limit: 3%}
+  {% for post in site.posts offset: 1 limit: 3 %}
   <div class="col">
     <div class="text-center card h-100" id="index-card">
       <div class="mh-50">
